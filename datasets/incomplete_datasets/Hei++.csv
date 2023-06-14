@@ -1,0 +1,714 @@
+WORD,DEFINITION,DATASET_NAME,SPLIT_TYPE
+unusual ability,an ability that is very uncommon to have,Hei++,test
+criminal abuse,an intentional abuse that is sanctioned by law,Hei++,test
+foreign accent,the accent with which a foreigner speaks a local language,Hei++,test
+incomplete account,an accounting record that fails to report thorough information,Hei++,test
+uninteresting account,a historical account that arouses no interest,Hei++,test
+complete accounting,keeping financial accounts in which no information is left out,Hei++,test
+accurate accounting,keeping financial accounts in which the reported values reflect the supporting facts,Hei++,test
+various achievements,achievements belonging to a wide range of different domains,Hei++,test
+irresponsible action,an action that is performed without worrying about its possible consequences,Hei++,test
+unclear action,an action prompted by obscure motivations,Hei++,test
+unfriendly action,an action that is clearly hostile,Hei++,test
+small-time actor,an actor of minor importance,Hei++,test
+responsible adult,an adult who is legally liable for a minor,Hei++,test
+bold adventure,an adventure that requires bravery and determination,Hei++,test
+sound advice,"a piece of good, trustworthy advice",Hei++,test
+implicit agreement,an agreement that is not stated explicitly (e.g. in a contract),Hei++,test
+interim agreement,an agreement that is in effect between two particular moments in time,Hei++,test
+clear air,"air above the earth, with no visible clouds",Hei++,test
+fresh air,"the air outdoors, usually cooler than the air in a sealed environment",Hei++,test
+thin air,an imaginary place where things vanish or cease to exist,Hei++,test
+steadfast ally,an ally that is constantly loyal and trustworthy,Hei++,test
+abnormal ambition,ambition that goes beyond ordinary craving,Hei++,test
+abnormal amount,an amount (of something) that is considered out of the ordinary,Hei++,test
+minuscule amount,an amount (of something) that is considered very small or insignificant,Hei++,test
+outrageous amount,an amount (of something) that is considered excessive and unreasonable,Hei++,test
+uncommon amount,an amount (of something) that is considered out of the ordinary,Hei++,test
+equivocal analysis,an analysis producing contradictory or questionable results,Hei++,test
+implicit anger,anger that remains unexpressed,Hei++,test
+clean animal,an animal that can be eaten according to some religious dietary laws,Hei++,test
+social animal,an animal that is highly interactive with other members of its own species,Hei++,test
+domestic animal,an animal that is raised or adapted to live with humans in their home,Hei++,test
+easy answer,an easy solution to a problem,Hei++,test
+final answer,an answer that admits no further replies,Hei++,test
+correct answer,the required answer in replying to a specific question,Hei++,test
+right answer,the required answer in replying to a specific question,Hei++,test
+active antagonism,a form of antagonism that is vented,Hei++,test
+clumsy apology,an awkwardly made apology,Hei++,test
+specific application,a specific kind of practical application,Hei++,test
+successful architect,a well-known architect with a history of success,Hei++,test
+powerful argument,an argument that is very convincing,Hei++,test
+modern art,art produced between the 1860s and the 1970s,Hei++,test
+practical art,a type of art that serves a functional purpose,Hei++,test
+squalid atmosphere,an atmosphere of misery and obscenity,Hei++,test
+heroic attack,an attack marked by courage and boldness,Hei++,test
+serious attempt,an attempt marked by real and conscious efforts,Hei++,test
+full attention,attention that is undivided and fully directed to a single cause,Hei++,test
+full auditorium,an auditorium that is filled to capacity with spectators,Hei++,test
+extraordinary authority,authority that stands in exceptional occasions,Hei++,test
+inattentive babysitter,a babysitter showing lack of care,Hei++,test
+liberal backer,someone who supports liberal politics and politicians,Hei++,test
+solid base,a robust base on top of which something can be built,Hei++,test
+interior bathroom,a bathroom inside a building,Hei++,test
+terrific battle,a battle that is hard fought or ferocious,Hei++,test
+extraordinary beauty,beauty that is exceptional and greater than the ordinary,Hei++,test
+outward beauty,beauty that can be perceived through sight,Hei++,test
+unusual beauty,beauty that is peculiar and out of the ordinary,Hei++,test
+brunette beauty,an attractive woman with dark hair,Hei++,test
+regular bedtime,bedtime that is kept stable every day,Hei++,test
+stale beer,an old opened beer that is now tasteless,Hei++,test
+cold beer,a beer served at a low temperature,Hei++,test
+auspicious beginning,a beginning that suggests the likelihood of future success,Hei++,test
+changeable behavior,a type of behavior that can be altered,Hei++,test
+conventional behavior,a type of behavior conforms to established norms,Hei++,test
+inoffensive behavior,a type of behavior that does not arouse feelings of resentment,Hei++,test
+social behavior,behavior involving interaction between two or more members of the same species,Hei++,test
+unsociable behavior,a type of behavior that is not suited for sociality,Hei++,test
+positive benefit,a tautological synonym for benefit,Hei++,test
+thoughtless bickering,bickering marked by lack of sympathy and kindness,Hei++,test
+uncommon bird,a species of bird that is rarely sighted,Hei++,test
+keen blade,a blade having a sharp edge,Hei++,test
+human body,the physical body of a human being,Hei++,test
+powerful bomb,a bomb with great explosive power,Hei++,test
+other book,the book that is not the one already mentioned,Hei++,test
+continuous bout,a prolonged bout (e.g. of illness),Hei++,test
+low bow,a bow intended to show the highest reverence,Hei++,test
+run-of-the-mill boxing,boxing that displays no special skill and arouses no excitement,Hei++,test
+common brand,a brand that is commonly associated with products of a specific type,Hei++,test
+standard brand,a brand that is commonly associated with products of a specific type,Hei++,test
+sacred bread,bread that is declared holy (according to religion),Hei++,test
+late breakfast,breakfast that is consumed in late morning,Hei++,test
+narrow bridge,a bridge with a narrow deck,Hei++,test
+tall building,a building having a considerable height,Hei++,test
+flourishing business,a business that is growing and succeeding,Hei++,test
+reputable business,a business that has great repute,Hei++,test
+incorrect calculation,a badly performed calculation that brings about an incorrect result,Hei++,test
+close call,a bad or dangerous situation that is barely avoided,Hei++,test
+regular call,a phone call made on a regular basis (e.g. to the same person),Hei++,test
+sacred calling,(christianity) the personal revelation that leads to the worship of god,Hei++,test
+unlikely candidate,a candidate whose presence among the competitors would not have been expected,Hei++,test
+sturdy canvas,a canvas made of tough materials,Hei++,test
+fast car,a car that can reach a high speed,Hei++,test
+new car,a recently bought car,Hei++,test
+typical case,an occurrence (of something) that shares its characteristics with the vast majority of other cases,Hei++,test
+low ceiling,a ceiling that stands at a low height from the floor,Hei++,test
+mature cell,(biology) a cell that has fully developed into a specific cell type (e.g. a brain cell),Hei++,test
+cavernous chamber,a huge enclosed space,Hei++,test
+slim chance,a very small chance,Hei++,test
+fundamental change,a change which reforms the essential qualities of something,Hei++,test
+uncommon character,a person's character that is deemed unconventional,Hei++,test
+excessive charge,a charge (e.g. a tax) that is deemed exorbitant,Hei++,test
+mesmeric charm,"a strong, almost spellbinding personal charm",Hei++,test
+loud child,a child who makes a lot of annoying noise,Hei++,test
+playful child,a child who is cheerful and keen on entertainment,Hei++,test
+refractory child,a child who does not comply with rules and commands,Hei++,test
+light-haired child,a child having light-colored hair,Hei++,test
+disobedient child,a child who does not comply with rules and commands,Hei++,test
+smart child,a kid displaying noticeable and exceptional cleverness,Hei++,test
+delicate china,china objects (e.g. plates or cups) that are easily damaged or broken,Hei++,test
+sensible choice,a thoughtful and wise choice,Hei++,test
+domestic chore,a maintenance chore that is done at one’s house,Hei++,test
+perfect circle,a perfectly represented circle (e.g. in a drawing),Hei++,test
+abnormal circumstance,a circumstance that deviates from what is ordinary,Hei++,test
+big city,a city that has a large population and/or surface area,Hei++,test
+foreign city,a city located in a foreign country,Hei++,test
+natural cliff,a cliff that is not man-made,Hei++,test
+difficult cliff,a cliff that is difficult to climb,Hei++,test
+cold climate,a climate marked by low temperatures,Hei++,test
+warm climate,a climate marked by high temperatures,Hei++,test
+dry climate,a climate marked by dry weather conditions,Hei++,test
+low cloud,a cloud that hangs at a low altitude above the ground,Hei++,test
+many clouds,a high but unspecified number of clouds,Hei++,test
+similar coat,a coat that resembles another one,Hei++,test
+unfriendly coldness,coldness marked by enmity,Hei++,test
+obedient colony,a colony that complies with the orders given from its rulers,Hei++,test
+same color,a color that is exactly the same as another one,Hei++,test
+new comet,a newly discovered comet,Hei++,test
+solid comfort,comfort that is helpful and indisputable,Hei++,test
+acid comment,a comment made in a bitter and caustic tone,Hei++,test
+easy commodity,a commodity that is easily obtainable,Hei++,test
+enjoyable company,company (e.g. of friends) that affords pleasure,Hei++,test
+succinct comparison,a comparison marked by a brief analysis,Hei++,test
+clear complexion,complexion devoid of skin impurities or diseases (e.g. acne),Hei++,test
+different conclusion,a conclusion (e.g. reached after reasoning) that differs from current opinions,Hei++,test
+meritorious conduct,a conduct that deserves to be honored and exalted,Hei++,test
+monumental contribution,a contribution that is deemed of the greatest importance,Hei++,test
+significant contribution,a contribution that is deemed of great importance,Hei++,test
+snappy conversation,a conversation held with cleverness and vivacity,Hei++,test
+inaudible conversation,a conversation that is impossible to hear,Hei++,test
+moral conviction,personal conviction related to one's essential beliefs,Hei++,test
+dark corner,a corner (e.g. in a room) devoid of illumination,Hei++,test
+casual correspondence,correspondence (e.g. by letters) that occurs at irregular intervals,Hei++,test
+gaudy costume,a costume that is gracelessly extravagant,Hei++,test
+beautiful country,a country that is admired for its landscapes and culture,Hei++,test
+indirect course,a course (e.g. towards some place) that is not direct,Hei++,test
+unflagging courtesy,courtesy that seems unceasing,Hei++,test
+greasy coverall,a coverall stained with oil or grease,Hei++,test
+contrived coyness,a form of coyness characterized by artificiality,Hei++,test
+thick cream,cream that is thickened by means of thickening agents,Hei++,test
+atrocious crime,a crime characterized by terrifying cruelty,Hei++,test
+mild criticism,criticism marked by a moderate tone,Hei++,test
+unmusical cry,a cry (e.g. of an animal) that is unpleasant to listen to,Hei++,test
+exotic cuisine,cuisine involving unfamiliar foods,Hei++,test
+potent cup,a cup (e.g. of coffee) that has a very powerful stimulant effect,Hei++,test
+bad cut,a cut (e.g. on the skin) that is particularly deep and painful,Hei++,test
+unkind cut,an instance of suffering caused by a cruel cut,Hei++,test
+extensive damage,damage that covers a large area and has a great extent,Hei++,test
+sprightly dance,a dance performed in a vivacious manner,Hei++,test
+big day,a day when something important happens (e.g. a wedding day),Hei++,test
+blue day,a day marked by feelings of depression,Hei++,test
+gloomy day,a day marked by bad weather and feelings of depression,Hei++,test
+other day,an unspecified day in the recent past,Hei++,test
+routine day,a day spent according to one's routine,Hei++,test
+same day,a day that is exactly the one already mentioned,Hei++,test
+square deal,a deal that the involved parties consider fair,Hei++,test
+early death,a death that occurs at an earlier time than usual or expected,Hei++,test
+unnatural death,a death brought about by an external cause,Hei++,test
+warm debate,a lively debate marked by difference of views,Hei++,test
+gluttonous debauch,a debauch marked by immoderate ingestion of food and drink,Hei++,test
+ordinary decency,decency related to what is conventionally considered ethical,Hei++,test
+lamentable decision,a decision that provokes sorrow and regret,Hei++,test
+right decision,the best and only decision to ensure an intended result is achieved,Hei++,test
+interior decoration,the artistic decoration of an enclosed space,Hei++,test
+evil deed,an act that follows a malicious intent,Hei++,test
+noble deed,an act that is admirable and motivated by compassion,Hei++,test
+unreasonable demand,a demand that is deemed outrageous and unfair,Hei++,test
+extraordinary desire,a desire marked by overwhelming emotions of longing for something,Hei++,test
+fiendish despot,a vicious and ruthless despot,Hei++,test
+significant detail,a detail that largely contributes to grasp the meaning of something,Hei++,test
+natural development,a development resulting from natural causes,Hei++,test
+early diagnosis,a diagnosis that is made at an initial stage of a disease,Hei++,test
+flawed diamond,a diamond that has imperfections,Hei++,test
+microscopic difference,a difference that is barely noticeable (as if requiring a microscope to be discovered),Hei++,test
+many directions,a large but unspecified number of possible directions,Hei++,test
+gigantic disappointment,a disappointment that comes as an awful shock,Hei++,test
+dirty dish,a dish that has bits of left-overs on it,Hei++,test
+tractable disposition,a personal disposition marked by calmness and malleability,Hei++,test
+unsocial disposition,a personal disposition marked by unfriendliness,Hei++,test
+wordy dispute,a dispute marked by wordy opinions,Hei++,test
+long distance,a distance that connects faraway places,Hei++,test
+sophisticated drama,a drama that is intellectually stimulating,Hei++,test
+wild-eyed dream,a dream marked by utopian idealism,Hei++,test
+white dress,a dress of the color of snow,Hei++,test
+bright dress,a dress that has a vivid color which reflects much light,Hei++,test
+nice dress,a dress that is pleasing to the eye,Hei++,test
+formal dress,a dress worn for an official occasion,Hei++,test
+stiff drink,a drink that has a considerable alcohol content,Hei++,test
+cool drink,a drink that is served at a low temperature,Hei++,test
+powerful drug,a drug that has a powerful effect,Hei++,test
+wordy editorial,an editorial containing an excessive number of words,Hei++,test
+formal education,education as imparted by educational institutions (e.g. schools or universities),Hei++,test
+humane education,education that encourages charity and respect for all living beings,Hei++,test
+deficient education,lacking acceptable levels of education in subjects deemed essential,Hei++,test
+conscious effort,an effort that is prompted by one's consciousness,Hei++,test
+unoriginal emendation,an emendation (e.g. in a manuscript) that has already been made,Hei++,test
+dire emergency,an emergency that requires immediate action,Hei++,test
+deep emotion,any strong emotion,Hei++,test
+faithful employee,an employee that is steadfast in observing duty,Hei++,test
+moderate enlargement,an enlargement which causes something to be slightly bigger than before,Hei++,test
+free enterprise,enterprise marked by market competition and freedom from state control,Hei++,test
+dramatic entrance,an entrance that is performed in a theatrical manner,Hei++,test
+obvious error,an error that is easily noticeable,Hei++,test
+moderate estimate,an estimate that is deemed reasonable,Hei++,test
+negative evaluation,an evaluation marked by disfavor,Hei++,test
+pleasant evening,an evening affording amusement and delight,Hei++,test
+current event,an event that is currently being covered in the news,Hei++,test
+inconclusive evidence,evidence that is not sufficient to prove something,Hei++,test
+slight evidence,evidence that is not sufficient to be taken into account,Hei++,test
+inadmissible evidence,any evidence that is judged improper to be used at judicial trial,Hei++,test
+likely excuse,a credible or plausible justification for a fault or offence,Hei++,test
+sound explanation,a clear and unequivocal explanation,Hei++,test
+concise explanation,an explanation that is not verbose,Hei++,test
+audacious explorer,a determined explorer who is not afraid of facing potential dangers,Hei++,test
+heroic explorer,a determined explorer who is not afraid of facing potential dangers,Hei++,test
+nice face,a cute and pleasant face,Hei++,test
+wan face,a very pallid face,Hei++,test
+atypical family,a family that is deemed extravagant or unconventional,Hei++,test
+essential feature,a feature that is deemed fundamental in defining something,Hei++,test
+prominent feature,a feature that clearly stands out,Hei++,test
+tiny feet,feet of a minute size,Hei++,test
+craven fellow,a miserable and fearful fellow,Hei++,test
+fair fight,a fight that is carried on in conformity with the established rules,Hei++,test
+familiar figure,a person who is well known to an observer,Hei++,test
+petite figure,a small and adorable person (usually a woman),Hei++,test
+slight figure,a thin and slender person,Hei++,test
+fine film,a thin layer of something (e.g. dust),Hei++,test
+moderate fine,a reasonable fine which mandates a moderate payment,Hei++,test
+uncertain finger,a finger (of the hand) that moves hesitantly,Hei++,test
+intense fire,any fire that is causing severe damage at a fast rate,Hei++,test
+late flight,a flight that takes off or lands later than planned,Hei++,test
+short flight,a flight that reaches its destination in a brief time,Hei++,test
+even floor,a floor having no roughness or irregularities,Hei++,test
+thick fog,a very dense cloud of fog,Hei++,test
+heavy fog,a very dense cloud of fog,Hei++,test
+ample food,a food supply that is larger than needed,Hei++,test
+enough food,food available in adequate quantities,Hei++,test
+plentiful food,an abundant amount of food,Hei++,test
+dirty foot,a foot that is unclean,Hei++,test
+fair footing,a status in which everyone has equal chances,Hei++,test
+high forehead,a forehead exhibiting considerable space between the eyes and the hairline,Hei++,test
+hot forehead,"a forehead that is hot to the touch, suggestive of fever",Hei++,test
+shadowy form,a form or silhouette that is not clearly visible,Hei++,test
+human frailty,the mental and physical frailty that inherently lies in every human being,Hei++,test
+imaginary friend,a friend that is invented and does not exist in physical reality,Hei++,test
+new friend,a recently made friend,Hei++,test
+sincere friendship,friendship marked by genuine feelings of benevolence,Hei++,test
+long friendship,a friendship that sprang up a long time ago,Hei++,test
+longstanding friendship,a friendship that sprang up a long time ago,Hei++,test
+modern furniture,furniture having a modern and fashionable style,Hei++,test
+uncertain future,a future prospect that is impossible to predict,Hei++,test
+useless gadget,a gadget that is of no use for a given purpose,Hei++,test
+handy gadget,a gadget that is particularly useful,Hei++,test
+shrill gaiety,gaiety accompanied by acute screams,Hei++,test
+full game,the whole of a game (from beginning to end),Hei++,test
+long game,a game that is played for a long time,Hei++,test
+simple game,a game that has simple rules,Hei++,test
+odorous garbage,garbage emitting an unpleasant odor,Hei++,test
+odorless gas,a gas having no smell,Hei++,test
+amiable gathering,a gathering marked by friendship and cordiality,Hei++,test
+flawless gemstone,a gemstone that has no imperfections,Hei++,test
+milky glass,a glass container that is white and opaque,Hei++,test
+dull glow,a weak glow of light,Hei++,test
+phosphorescent glow,any glow of light which causes moderate heat,Hei++,test
+pure gold,gold that contains no other metallic elements,Hei++,test
+wild goose,a goose that is not domesticated,Hei++,test
+corrupt government,a government composed of bribed politicians,Hei++,test
+powerful government,a government having great power and influence,Hei++,test
+unaffected grace,genuineness without artificiality,Hei++,test
+lumpy gravy,a gravy that has a rough texture,Hei++,test
+cheerful greeting,a greeting given with happiness,Hei++,test
+chilly greeting,a greeting that feels detached and unemotional,Hei++,test
+dry greeting,a greeting that feels detached and unemotional,Hei++,test
+warm greeting,a greeting that feels warmhearted and friendly,Hei++,test
+big group,a group comprising a large number of members,Hei++,test
+familiar guest,a well-known guest,Hei++,test
+curly hair,hair arranged or growing in curls,Hei++,test
+customary handshake,a handshake occurring at a prescribed time (e.g. at the end of a dispute),Hei++,test
+terrible handwriting,handwriting that is garbled and indecipherable,Hei++,test
+perennial happiness,a state of happiness that seems to be everlasting,Hei++,test
+courageous heart,the feelings of a person that is not afraid of getting hurt,Hei++,test
+female heir,an heir being of the sex that can give birth,Hei++,test
+willing helper,a helper who is eager to be of assistance,Hei++,test
+future historian,a historian who is postulated to exist in the future,Hei++,test
+friendly host,a host that offers a warm reception,Hei++,test
+vivacious hostess,a woman host who shows liveliness,Hei++,test
+empty hour,an hour spent doing nothing,Hei++,test
+other house,the house that is not the one already mentioned,Hei++,test
+common housefly,a common species of housefly,Hei++,test
+temporary housing,housing in which someone lives momentarily,Hei++,test
+real humility,humility that is not feigned,Hei++,test
+unlawful hunter,a hunter who practices poaching,Hei++,test
+gluttonous husband,a husband who consumes immoderate amounts of food and drink,Hei++,test
+clear idea,an idea that is marked by clear understanding (e.g. of a situation),Hei++,test
+unpopular idea,an idea that is not widely liked,Hei++,test
+exalted ideal,any ideal that gets glorified and perpetuated,Hei++,test
+critical illness,a particularly severe illness that is eligible for insurance benefits,Hei++,test
+attractive illustration,an illustration that is pleasing to the eye,Hei++,test
+inadequate income,an income that is deemed inadequate with respect to what is customary,Hei++,test
+moderate income,an income that is considerate average (for a given community),Hei++,test
+massive increase,an increase (e.g. in amount) that is extraordinarily large,Hei++,test
+clear indication,an indication (visible or imaginary) pointing out the certainty of something,Hei++,test
+independent individualism,individualism marked by the possession of an independent mind,Hei++,test
+evil influence,influence that results in evil deeds,Hei++,test
+immediate influence,unmediated influence over something or someone,Hei++,test
+explicit instruction,an instruction that is stated clearly,Hei++,test
+peculiar insult,an insult that is not commonly used,Hei++,test
+ultimate insult,a serious insult that admits no reply,Hei++,test
+abnormal interest,interest that goes beyond what is considered ordinary or acceptable,Hei++,test
+multifarious interest,interest that one has about several different things,Hei++,test
+vital interest,interest (in wanting something done) that is of extreme importance,Hei++,test
+separate issue,an issue that is unrelated to those already mentioned,Hei++,test
+featured item,an item (e.g. in a sale) to which exceptional publicity is given,Hei++,test
+outside job,a crime committed by an external member (e.g. of an organization),Hei++,test
+unglamorous job,a job that is considered boring and ordinary,Hei++,test
+useful job,a job that is deemed useful (for a given purpose),Hei++,test
+dirty job,an unpleasant task,Hei++,test
+grim joke,a joke that makes use of black humor,Hei++,test
+good joke,a joke that is considered funny and witty,Hei++,test
+responsible journalism,a form of journalism marked by truthfulness and accountability,Hei++,test
+circuitous journey,a journey on a circuitous route,Hei++,test
+ephemeral joy,a feeling of joy doomed to end before long,Hei++,test
+overwhelming joy,a very strong feeling of joy,Hei++,test
+common knowledge,knowledge that is considered to be shared by the vast majority of people,Hei++,test
+dry land,land that is depleted of water,Hei++,test
+sardonic laughter,laughter that is intentionally rude and derisive,Hei++,test
+efficacious law,a law that attains the goal for which it was promulgated,Hei++,test
+new law,a law that recently entered into force,Hei++,test
+acknowledged leader,a leader that is endorsed and accepted as such,Hei++,test
+voluminous legislation,a huge amount of legislation that deals with a specific topic,Hei++,test
+moral lesson,the key moral that acts as a lesson (e.g. after an event),Hei++,test
+drab life,a life spent without liveliness or enthusiasm,Hei++,test
+lackluster life,a life spent without liveliness or enthusiasm,Hei++,test
+real life,"unidealised life involving pragmatic, essential or mundane problems",Hei++,test
+tough life,a very difficult and trying life to live,Hei++,test
+unorthodox lifestyle,a lifestyle marked by uncommon habits and customs,Hei++,test
+indirect light,light that hits a surface after being reflected,Hei++,test
+marked limp,a limp that is easily noticeable,Hei++,test
+continuous line,a line that is drawn with no interruptions between its ends,Hei++,test
+narrow line,an imaginary line that is seen as separating two alternative outcomes,Hei++,test
+ragged line,a line that has a zigzag pattern,Hei++,test
+thin line,an imaginary line that is seen as separating two alternative outcomes,Hei++,test
+direct link,a link (on a webpage) that links to a file directly,Hei++,test
+bloodless lip,lip (of the mouth) having an anemic color,Hei++,test
+potent liquor,a liquor with a high alcohol content,Hei++,test
+light load,any load that does not constitute a burden,Hei++,test
+whole loaf,a loaf that has not been sliced,Hei++,test
+mighty logger,a logger having extraordinary strength,Hei++,test
+cold logic,logic that does not account for human factors (e.g. emotions),Hei++,test
+sultry look,a sensual and provocative look,Hei++,test
+constant lover,a lover who is faithful to their partner,Hei++,test
+inconstant lover,a lover who is unfaithful to their partner,Hei++,test
+unfaithful lover,a lover who is unfaithful to their partner,Hei++,test
+bad luck,an instance of unpredictable misfortune,Hei++,test
+big man,a man having great status and influence,Hei++,test
+brutish man,a man with an awful and violent attitude,Hei++,test
+grim man,a man who has an aura of cruelty and harshness,Hei++,test
+little man,a man who is an ordinary person,Hei++,test
+courteous man,a man having proper and deferential manners,Hei++,test
+physical manifestation,a manifestation in physical form,Hei++,test
+dreadful manner,an extremely bad manner,Hei++,test
+good manner,a manner that is considered suitable or polite,Hei++,test
+perfect manner,the best possible manner to do something,Hei++,test
+proper manner,the manner that is considered the most suitable to achieve a specific end,Hei++,test
+uneven margin,a margin that is not perfectly leveled,Hei++,test
+happy marriage,a marriage that resulted in a joyous and lasting relationship,Hei++,test
+repulsive mask,a mask that inspires terror,Hei++,test
+complex mass,a mass (usually cystic) that can be cancerous,Hei++,test
+serious matter,an important matter requiring complete attention,Hei++,test
+coarse meal,foodstuff that is not finely ground,Hei++,test
+complete meal,a meal that contains the proper amount of macronutrients,Hei++,test
+fair means,any means (e.g. to achieve something) that is deemed fair and reasonable,Hei++,test
+true meaning,the intended meaning of something,Hei++,test
+improper medication,a medication that is unfit to treat something (e.g. a wound),Hei++,test
+strong medicine,a medicine that has a powerful effect,Hei++,test
+wrong medicine,a medicine that is not intended to be taken or administered (in a given circumstance),Hei++,test
+precious memory,a memory (e.g. of an event) that is carefully kept in mind,Hei++,test
+hot merchandise,recently stolen merchandise,Hei++,test
+unusual meteorite,a meteorite having peculiar characteristics,Hei++,test
+unavailable milk,any supply of milk that is not available to be sold or consumed,Hei++,test
+independent mind,a kind of intellectual ability marked by the faculty of forming uninfluenced opinions,Hei++,test
+acquisitive mind,a kind of intellectual ability that allows the possessor to retain a wide array of ideas and information,Hei++,test
+insubstantial mirage,a tautological synonym for mirage,Hei++,test
+careless mistake,a mistake caused by lack of care,Hei++,test
+prosperous moment,a suitable moment,Hei++,test
+proud moment,a moment in which one feels a great sense of pride,Hei++,test
+unlawful money,"money earned, spent, or printed unlawfully",Hei++,test
+short month,any month containing less than 31 calendar days,Hei++,test
+tasty morsel,a morsel (of something) that is very attractive and desirable,Hei++,test
+imperfect mortal,"(christianity) any mortal being, as opposed to god",Hei++,test
+laudable motive,a motive (for doing something) deemed noble and praiseworthy,Hei++,test
+malign motive,a motive dictated by wickedness,Hei++,test
+late movie,a movie that is screened or broadcasted at a late hour,Hei++,test
+great multitude,an uncountable multitude (especially of people),Hei++,test
+grisly murder,a murder that inspires horror and disgust,Hei++,test
+original music,copyrighted music in its original form (e.g. not a cover song),Hei++,test
+breezy nature,the nature of a lively and easygoing person,Hei++,test
+conspicuous necktie,a necktie that is very noticeable,Hei++,test
+wide necktie,a necktie that is wider than the standard tie,Hei++,test
+delicate negotiation,a negotiation requiring great diplomacy,Hei++,test
+near neighbor,a person or thing that lives or exists close by,Hei++,test
+friendly neighborhood,a sociable neighborhood whose inhabitants behave kindlily,Hei++,test
+unsociable neighborhood,neighborhood that is unfriendly and hostile,Hei++,test
+dead nerve,a nerve (usually in a tooth) that became damaged and died,Hei++,test
+good news,any news that arouses feelings of joy or eases anxiety,Hei++,test
+terrific noise,a noise that is extremely intense,Hei++,test
+incessant noise,an unpleasant noise that continues without interruption,Hei++,test
+cozy nook,a nook that affords pleasure and comfort,Hei++,test
+snotty nose,a nose filled or covered with mucus,Hei++,test
+officious nuisance,an interfering person who is impertinent and presumptuous,Hei++,test
+large number,a significant number of things,Hei++,test
+real object,an object that exists in the physical reality,Hei++,test
+unpleasant odor,an odor that is disgusting,Hei++,test
+grievous offense,an outrageous offense (against something),Hei++,test
+penal offense,any offense that is legally punishable,Hei++,test
+senior officer,a field officer of high rank,Hei++,test
+propitious omen,an omen that is interpreted as a favorable and auspicious sign,Hei++,test
+divergent opinion,an opinion which differs from the most accredited one,Hei++,test
+exaggerated opinion,an uncommon and overstated opinion,Hei++,test
+uncertain origin,an origin that cannot be determined with certainty,Hei++,test
+pure oxygen,oxygen free from extraneous elements,Hei++,test
+fast pace,pace marked by considerable speed,Hei++,test
+individual page,a single specific page,Hei++,test
+exquisite pain,a severe kind of pain,Hei++,test
+intractable pain,pain that is difficult to treat or alleviate,Hei++,test
+exterior paint,the paint that is applied over the exterior boundary of something,Hei++,test
+dead pallor,a pallor resembling the skin color of a corpse,Hei++,test
+indulgent parent,a parent who is indulging to his/her children,Hei++,test
+nagging parent,a parent who is constantly scolding his/her children,Hei++,test
+proud parent,a parent who is proud of his/her children,Hei++,test
+different part,a part that is not the one already mentioned,Hei++,test
+ignoble part,a role that is deemed despicable,Hei++,test
+unchangeable part,a part of something that cannot be replaced or altered,Hei++,test
+willing participant,a participant who is eager to take part in something,Hei++,test
+dominant partner,the partner who psychologically subdues the other,Hei++,test
+bad pay,low or insufficient payment for work,Hei++,test
+moderate penalty,a penalty that is reasonable and not severe,Hei++,test
+average people,people who are considered typical according to some established criteria,Hei++,test
+important people,people who are powerful and widely known,Hei++,test
+real people,ordinary people who comply with the rules of society,Hei++,test
+painful performance,a performance that is exceptionally bad,Hei++,test
+thrilling performer,a performer who is exciting to watch,Hei++,test
+careless person,a person who acts with no attention and forethought,Hei++,test
+unaware person,a person who has no knowledge of a fact or an event,Hei++,test
+bubbly personality,the personality of someone who is deemed lively and fun,Hei++,test
+drab personality,the personality of someone who is deemed dull and ordinary,Hei++,test
+unpleasant personality,a distinctive personality that is unpleasant to the mind,Hei++,test
+attractive personality,a distinctive personality that is pleasing to the mind,Hei++,test
+companionable pet,a friendly and affectionate pet,Hei++,test
+natural phenomenon,any phenomenon brought about by a natural cause,Hei++,test
+ready-made phrase,a phrase having a widely-known meaning and usage,Hei++,test
+skew picture,an inaccurate or partial representation of a situation,Hei++,test
+toothless piece,an instance (of something) that is ineffective,Hei++,test
+nasty pigsty,a place (e.g. a room) that is messy and unclean,Hei++,test
+vertical pillar,a pillar that stands perpendicular to the ground,Hei++,test
+uncheerful place,a place that has a gloomy atmosphere,Hei++,test
+proper place,a place (concrete or abstract) that is deemed right to find something in,Hei++,test
+rudimentary plan,a plan that is yet to be clearly defined,Hei++,test
+good-natured play,a cheerful way of playing (e.g. of puppies),Hei++,test
+vivid plumage,a radiant colored plumage,Hei++,test
+atypical pneumonia,a type of pneumonia characterized by mild symptoms,Hei++,test
+good-natured policeman,a policeman having a friendly disposition,Hei++,test
+conscious policy,a policy that is consciously intended to cope with a specific problem,Hei++,test
+dishonest politician,a politician who is inclined to deceive and to be bribed,Hei++,test
+extraordinary popularity,popularity of the highest degree,Hei++,test
+free port,a port in which goods are exempt from customs duty,Hei++,test
+generous portion,a portion of something which is judged more than adequate,Hei++,test
+responsible position,"a post where the holder has specific duties to perform without supervision, and for the fulfilment of which he or she is accountable",Hei++,test
+breakable pottery,articles of pottery which are easily broken,Hei++,test
+light-colored powder,a cosmetic powder having a light color,Hei++,test
+ill prediction,a prediction marked by pessimism and hopelessness,Hei++,test
+rosy prediction,a prediction marked by optimism and enthusiasm,Hei++,test
+external pressure,pressure applied to a surface (from the outside),Hei++,test
+inappropriate pressure,"unsuitable or improper pressure, often psychological",Hei++,test
+changeable price,a price that is not fixed,Hei++,test
+high price,a price that is considered to be set above a customary level,Hei++,test
+low price,a price that is considered to be set below a customary level,Hei++,test
+frozen price,a price that is fixed and cannot be changed,Hei++,test
+wretched prisoner,a prisoner in a condition of pain and affliction,Hei++,test
+easy problem,a problem that is easy to solve,Hei++,test
+knotty problem,a problem that is hard to solve,Hei++,test
+multiplex problem,a problem involving many aspects,Hei++,test
+simple problem,a problem that is easy to solve,Hei++,test
+elementary problem,a problem that is easy to solve,Hei++,test
+common procedure,a procedure that is commonly employed,Hei++,test
+painful process,a procedure that entails pain and distress,Hei++,test
+stilted pronunciation,pronunciation marked by stiffness and unnaturalness,Hei++,test
+conclusive proof,a proof that is judged definitive and unequivocal,Hei++,test
+novel proof,a novel proof intended to demonstrate something anew (e.g. a theorem),Hei++,test
+physical property,a property of matter that can be observed and measured,Hei++,test
+monolithic proportion,a massive proportion (e.g. of a building),Hei++,test
+general public,"people in general, not a small specialized group",Hei++,test
+docile pupil,a pupil who is willing to learn and easy to teach,Hei++,test
+dark purpose,a wicked and vile purpose,Hei++,test
+important question,a question that is deemed necessary to inquire about a specific topic,Hei++,test
+intelligent question,a question that is deemed appropriate to inquire about a specific topic,Hei++,test
+oily rag,a dirty rag soaked with oil,Hei++,test
+negative reaction,a reaction of strong disagreement,Hei++,test
+unwary reader,a reader who is uninformed and unaware of some facts,Hei++,test
+pious reading,the act of reading and interpreting something in a religious manner,Hei++,test
+special reason,a reason to do something under extraordinary circumstances,Hei++,test
+mild rebuke,a rebuke marked by a moderate tone,Hei++,test
+cool reception,a welcome marked by unfriendliness and lack of excitement,Hei++,test
+vivid recollection,a detailed recollection that closely resembles the event being recalled,Hei++,test
+long-term reconstruction,a carefully planned reconstruction that will take a long time to be put into effect,Hei++,test
+speedy recovery,any recovery that takes a short time,Hei++,test
+gigantic redwood,a redwood having a colossal size,Hei++,test
+fair referee,(sports) a referee who makes unbiased decisions,Hei++,test
+inward reflection,a reflection marked by the analysis of oneself,Hei++,test
+sincere regret,regret aroused by genuine feelings,Hei++,test
+cool relation,a relation marked by unfriendliness and lack of affection,Hei++,test
+tart remark,a remark marked by rudeness and cruelty,Hei++,test
+exorbitant rent,a rent that has an unreasonably high cost,Hei++,test
+prompt reply,a reply that is made quickly,Hei++,test
+effective reprimand,a reprimand that achieves its intended purpose,Hei++,test
+gentle reprimand,a reprimand marked by a moderate tone,Hei++,test
+asexual reproduction,a type of reproduction that does not require the union of gametes,Hei++,test
+unfaithful reproduction,a reproduction (e.g. of a painting) that misrepresents the original,Hei++,test
+formal requirement,a requirement set out by prescribed norms,Hei++,test
+careful research,a meticulous and thorough analysis,Hei++,test
+striking resemblance,a resemblance that is immediately evident,Hei++,test
+low reservoir,a reservoir that is running low,Hei++,test
+last resort,a course of action used as a final attempt when nothing else has worked,Hei++,test
+ungenerous response,a response marked by selfishness and lack of consideration,Hei++,test
+grave responsibility,a responsibility that implies urgent and burdensome duties,Hei++,test
+bad review,a review that expresses a bad opinion on something,Hei++,test
+flashy ring,a finger ring that is gracelessly extravagant,Hei++,test
+meteoric rise,a significant rise in amount or degree (one that occurs swiftly),Hei++,test
+rapid rise,a rise in amount or degree which occurs rapidly,Hei++,test
+long road,a time-intensive manner of performing an undertaking,Hei++,test
+straight road,a road that extends in a specific direction without bending,Hei++,test
+wrong road,a road that is taken by accident and that diverts from the intended itinerary,Hei++,test
+fine-grained rock,rock made of fine powdery particles,Hei++,test
+cheerful room,"a bright, lively room",Hei++,test
+cold room,a room in which products (especially foodstuffs) are stored at a low temperature,Hei++,test
+cool room,a room in which products (especially foodstuffs) are stored at a low temperature,Hei++,test
+roundabout route,"an alternative, usually longer route, that is taken to avoid inconveniences",Hei++,test
+continuous row,an interrupted row of something (e.g. a row of buildings),Hei++,test
+same rule,a rule that is exactly the same as the one already mentioned,Hei++,test
+benign ruler,a ruler that reigns with kindness of disposition,Hei++,test
+supreme sacrifice,the sacrifice of one's life for a significant cause,Hei++,test
+comfortable salary,a salary that affords peace and comfort,Hei++,test
+monumental scale,a magnitude that is extraordinarily big,Hei++,test
+hideous scar,a scar (on the skin) that is terrifying to look at,Hei++,test
+everyday scene,a situation that occurs commonly,Hei++,test
+exterior scene,a scene filmed outdoors,Hei++,test
+pleasant scene,a situation that affords pleasure,Hei++,test
+fresh scent,a scent that suggests freshness (e.g. a citrus scent),Hei++,test
+ambitious schedule,a schedule that requires huge efforts in order to be met,Hei++,test
+empty seat,an available seat that can be occupied (e.g. in a theatre),Hei++,test
+illegitimate seizure,seizure (e.g. of power) by unlawful means,Hei++,test
+internal sense,a sense that is a cognitive faculty (e.g. memory or imagination),Hei++,test
+grotesque serpent,a monstrous and bizarre serpent,Hei++,test
+faithful service,a reliable service that is provided constantly,Hei++,test
+honorable service,service (e.g. in defense of a nation) that is worthy of recognition,Hei++,test
+plenary session,a session attended by members of all parties,Hei++,test
+complex set,a set comprising complicated and heterogeneous elements,Hei++,test
+other sex,the opposite sex,Hei++,test
+noticeable shadow,a shadow that is easily noticeable,Hei++,test
+nutty sherry,sherry having the flavor of nuts,Hei++,test
+unclean shirt,a shirt that is dirty,Hei++,test
+nasty shock,"a terrible shock, caused by an unpleasant happening",Hei++,test
+inappropriate shoe,a shoe that is not fit for a given purpose,Hei++,test
+straight shoulders,"shoulders set upright, not curved",Hei++,test
+jumbo shrimp,an unusually big shrimp,Hei++,test
+far side,the side that is the farthest from the viewer,Hei++,test
+wet sidewalk,a sidewalk covered with water (especially rainwater),Hei++,test
+deep sigh,a particularly long and loud sigh,Hei++,test
+impossible situation,a situation that is extremely hard to deal with,Hei++,test
+average size,a size that lies in the middle of an ordered scale,Hei++,test
+moderate size,a size that lies in the middle of an ordered scale,Hei++,test
+standard size,the size (of something) which is typically regarded as the most common,Hei++,test
+unmistakable slavery,something that can be unquestionably perceived as slavery,Hei++,test
+nasty smell,a smell that is revolting,Hei++,test
+benign smile,a smile conveying feelings of sympathy and kindness,Hei++,test
+happy smile,a smile of heartfelt joy,Hei++,test
+dense smoke,smoke marked by high density of suspended particles,Hei++,test
+immense snake,a snake that is extraordinarily great in size,Hei++,test
+powdery snow,fresh snow consisting of fine particles,Hei++,test
+impractical solution,a solution (e.g. to a problem) that is deemed ineffective or unreasonable,Hei++,test
+intelligent solution,a solution (e.g. to a problem) that is deemed brilliant and ingenious,Hei++,test
+kindred soul,a person with whom one shares the highest degree of affinity,Hei++,test
+thin soup,a soup made from an uncondensed broth,Hei++,test
+thick soup,a creamy soup such as a velouté,Hei++,test
+confident speaker,a speaker who has no performance anxiety,Hei++,test
+felicitous speaker,a speaker who exhibits an agreeably appropriate manner or style,Hei++,test
+perfect specimen,a specimen that is considered a perfect example of its class,Hei++,test
+ponderous speech,a clumsy speech arousing boredom,Hei++,test
+incredible speed,an extraordinarily high speed that arouses astonishment,Hei++,test
+incorporeal spirit,a supernatural spirit having no material form,Hei++,test
+malign spirit,a supernatural spirit having an evil nature,Hei++,test
+sexual spore,a spore that is formed as the result of gametes merging,Hei++,test
+idyllic spot,"a place that is deemed extremely felicitous, peaceful, or picturesque",Hei++,test
+early spring,days marked by springlike weather (occurring before spring begins),Hei++,test
+outgoing steamship,a steamship that is leaving a port,Hei++,test
+slow step,any step (e.g. in a process) that takes a long time to be completed,Hei++,test
+redeemable stock,(trading) a stock that can be bought back by a company,Hei++,test
+sleazy storefront,a squalid-looking storefront,Hei++,test
+hot stove,"a stove with fuel burning, dangerous to touch",Hei++,test
+scentless stretch,a continuous area (e.g. a stretch of land) giving off no odor,Hei++,test
+serious student,a hardworking student who is fully devoted to studying,Hei++,test
+inattentive student,a student showing lack of attention,Hei++,test
+exhaustive study,a study that includes an extensive array of information,Hei++,test
+humanistic study,a discipline dealing with human culture,Hei++,test
+colloquial style,a style (e.g. of writing) that emulates informal spoken language,Hei++,test
+loyal subject,a person who is faithful to a given cause,Hei++,test
+simple substance,a substance that is a sample of one of the elements in the periodic table,Hei++,test
+large sum,a large amount of money,Hei++,test
+sultry summer,a very hot and humid summer,Hei++,test
+bright sun,the sun shining during the hours of maximum light,Hei++,test
+low sun,the sun standing near the horizon,Hei++,test
+abundant supply,any large supply that is far from running low,Hei++,test
+ample supply,any large supply that is far from running low,Hei++,test
+low supply,any supply that is running low,Hei++,test
+short supply,any supply that is running low,Hei++,test
+warm support,support expressed with great warmth and affection,Hei++,test
+comprehensive survey,a survey that includes an extensive array of information,Hei++,test
+erect tail,a tail that an animal holds straight up,Hei++,test
+false tale,a tale narrating deceitful or incorrect events,Hei++,test
+macabre tale,a tale characterized by an unsettling and gruesome plot,Hei++,test
+difficult task,a task that is hard to accomplish,Hei++,test
+mindless task,a task that can be carried out without mental efforts,Hei++,test
+atrocious taste,taste that is utterly disgusting,Hei++,test
+ineffective teacher,a teacher who fails to impart skills and knowledge,Hei++,test
+dainty teacup,a delicately small and pretty teacup,Hei++,test
+impotent technology,technology that is inadequate to address an issue,Hei++,test
+placid temperament,the temperament of a calm and pacific person,Hei++,test
+critical temperature,the temperature above which a gas cannot be liquefied,Hei++,test
+many temptations,a large but unspecified number of temptations,Hei++,test
+general term,a term that denotes a higher order in a semantic hierarchy,Hei++,test
+beautiful theory,a theory that is simple yet logically complete,Hei++,test
+inaccurate thermometer,a thermometer that indicates the wrong temperature,Hei++,test
+actual thing,a thing that exists in reality,Hei++,test
+nasty thing,a mean and evil thing to do or think,Hei++,test
+near thing,a situation in which one barely succeeds,Hei++,test
+striking thing,a thing that is easy to notice or perceive,Hei++,test
+substantial thing,a thing that is relevant and meaningful,Hei++,test
+impure thought,a thought concerned with morally inappropriate topics,Hei++,test
+ceaseless thunder,a loud noise that seems endless,Hei++,test
+awkward time,a moment of time that seems unsuitable (e.g. to perform an activity),Hei++,test
+rough time,a challenging period of time,Hei++,test
+pathologic tissue,tissue that is damaged by a disease,Hei++,test
+timorous tone,a tone of voice that reveals fear and apprehension,Hei++,test
+unready tongue,the incapability to react verbally at the proper time,Hei++,test
+current topic,the topic that is being addressed at the moment,Hei++,test
+hot topic,a topic that is being widely discussed,Hei++,test
+likely topic,a topic that has a good chance of being dealt with,Hei++,test
+thirsty towel,a towel able to absorb great quantities of moisture,Hei++,test
+squat tower,a large tower having a low height,Hei++,test
+fast track,a manner (of doing things) that produces results promptly,Hei++,test
+twisty track,a track marked by several bends,Hei++,test
+distant traffic,noisy road traffic that occurs far from the listener,Hei++,test
+adequate training,training that achieves its intended purpose,Hei++,test
+salient trait,a trait that constitutes a striking point or feature,Hei++,test
+deep trance,a state of trance marked by complete abstraction from reality,Hei++,test
+shallow trance,a state of trance marked by mild abstraction from reality,Hei++,test
+inaccurate translation,a translation that fails to render the precise meaning of a verbal or written communication,Hei++,test
+unwary traveler,a traveler who is careless and incautious,Hei++,test
+shabby treatment,a treatment that is considered unfair or unsatisfactory,Hei++,test
+tall tree,a tree having a considerable height,Hei++,test
+sore trial,an annoying tribulation that causes suffering and distress,Hei++,test
+unfair trial,(law) a trial that is deemed biased and unjust,Hei++,test
+loud trombone,a trombone that produces sounds of great volume,Hei++,test
+commercial trucker,a trucker who is engaged in commerce,Hei++,test
+axiomatic truth,a self-evident truth,Hei++,test
+unhappy truth,truth that brings unhappiness,Hei++,test
+bouncy tune,a vivacious tune that has a catching rhythm,Hei++,test
+unhealthy ulcer,an ulcer that is harmful to health,Hei++,test
+dark undercurrent,a concealed emotion marked by gloomy thoughts,Hei++,test
+multifaceted undertaking,an undertaking that involves many different aspects,Hei++,test
+possible use,any use that one can make of something,Hei++,test
+permanent value,a quality that seems to last endlessly,Hei++,test
+early variety,any variety (e.g. of a plant) that blossoms rapidly,Hei++,test
+usual vegetable,a vegetable that is commonly cooked and eaten,Hei++,test
+mistaken view,an incorrect view (e.g. of a situation),Hei++,test
+distant village,a village that lies far away from the speaker's location,Hei++,test
+awful voice,a voice that is very unpleasant to hear,Hei++,test
+big voice,an operatic voice marked by impressive resonance and volume,Hei++,test
+paltry wage,an outrageously low wage,Hei++,test
+slender wage,a very low wage,Hei++,test
+hollow wall,a wall consisting of two surfaces that are divided by an empty space,Hei++,test
+unpopular war,a war that is not endorsed by public opinion,Hei++,test
+complete wardrobe,"a wardrobe, considered as the collection of the clothing it stores",Hei++,test
+gallant warrior,a warrior who shows fortitude (e.g. in battle),Hei++,test
+uncolored water,water having its natural transparency,Hei++,test
+easy way,the most effortless (and often inefficient) way of doing something,Hei++,test
+intellectual weapon,any intellectual product that is considered a powerful weapon for achieving a specific goal,Hei++,test
+fine weave,weave marked by a fine pattern,Hei++,test
+whole week,a week (considered as a long period) entirely devoted to a specific activity,Hei++,test
+few weeks,a low but unspecified number of weeks,Hei++,test
+standard width,the width that something is expected to have under normal circumstances,Hei++,test
+ordinary wine,inexpensive and mass-market wine of average quality,Hei++,test
+reputable wine,wine of the best quality,Hei++,test
+sheer wine,wine that is not mixed with extraneous substances,Hei++,test
+delicate wing,a wing (e.g. of a butterfly) that is easily broken,Hei++,test
+barren woman,a woman who is unable to produce offspring,Hei++,test
+brainy woman,a woman who has an outstanding intellect,Hei++,test
+insincere woman,a woman who hides her true feelings and intentions,Hei++,test
+long word,a word composed of a large number of letters,Hei++,test
+functional word,"a word that has a grammatical function, but little lexical meaning",Hei++,test
+innovative work,any new product or technology that is groundbreaking or pioneering,Hei++,test
+intellectual worker,"a worker in the literary, artistic or scientific field",Hei++,test
+inanimate world,all of the nonliving matter of the earth,Hei++,test
+ghastly wound,a horrible wound that arouses repulsion,Hei++,test
+new year,the year to come,Hei++,test
