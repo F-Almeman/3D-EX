@@ -1,5 +1,7 @@
 # 3D-EX
 
+This repository is created for the work **3D-EX: A Unified Dataset of Definitions and Dictionary Examples** that is submitted to RANLP 2023.
+
 # 1. Data preparation
 
 ## 1.1 DM datasets
