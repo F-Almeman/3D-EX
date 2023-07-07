@@ -4,6 +4,7 @@ import pandas as pd
 import gdown
 import numpy as np
 import torch
+import argparse
 from InstructorEmbedding import INSTRUCTOR
 from sentence_transformers import SentenceTransformer, util
 from transformers import BartTokenizer, BartForConditionalGeneration, AdapterType, TrainingArguments, AdapterTrainer
@@ -43,7 +44,7 @@ if __name__ == '__main__':
   args = parser.parse_args()
 
   df = pd.read_csv(args.data ,engine='python', na_values = [''], keep_default_na=False)
-  f = open('reverse_dictionary_output.txt', 'w')
+  f = open(f'rd_{args.model}_{args.word_instruction}_{args.def_instruction}.txt', 'w')
 
   if args.model == "instructor":
     embedder = INSTRUCTOR('hkunlp/instructor-large')
@@ -63,7 +64,7 @@ if __name__ == '__main__':
   # Query sentences:
   queries = df.DEFINITION.values
 
-  # Find the closest 5 sentences of the corpus for each query sentence based on cosine similarity
+  # Find the closest sentences of the corpus for each query sentence based on cosine similarity
   top_k = 10
 
   results = []
