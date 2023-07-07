@@ -66,7 +66,7 @@ python3 src/generate_splits.py datasets/unified_dataset.csv -o datasets/splits
 	
 ## 4.2 Reverse dictinary
 	
-This task is a ranking problem in which, given a definition, the task is to retrieve a ranked list of the most relevant words. [reverse_dictionary.py](https://github.com/F-Almeman/3D-EX/blob/main/src/reverse_dictionary.py) computes the Mean Reciprocal Rank (MRR), which rewards the position of the first correct result in a ranked list of outcomes, using SBERT models (all-MiniLM-L6-v2 , all-distilroberta-v1 and all-mpnet-base-v2) or Instructor (using three variants of Instructor for encoding words and definitions). <br />
+This task is a ranking problem in which, given a definition, the task is to retrieve a ranked list of the most relevant words. [reverse_dictionary.py](https://github.com/F-Almeman/3D-EX/blob/main/src/reverse_dictionary.py) computes the Mean Reciprocal Rank (MRR), which rewards the position of the first correct result in a ranked list of outcomes, using SBERT models (all-MiniLM-L6-v2 , all-distilroberta-v1 and all-mpnet-base-v2) or instructor (using three variants of Instructor for encoding words and definitions). <br />
 -m: model type, it is either all-MiniLM-L6-v2 , all-distilroberta-v1, all-mpnet-base-v2, or Instructor (defult="all-MiniLM-L6-v2").<br /> 
 -d: data input file (WORD, DEFINITION).<br /> 
 -wi: word instruction (defult="no").<br /> 
