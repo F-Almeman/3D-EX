@@ -61,8 +61,13 @@ python3 src/generate_splits.py datasets/unified_dataset.csv -o datasets/splits
 # 4. Intrinisic evaluation
 	
 ## 4.1 Source classification
-	
-
+This task consists of a multi-lable classification, he goal is to, given a <word,definition> instance, predict its original sources. [source_classification.py](https://github.com/F-Almeman/3D-EX/blob/main/src/source_classification.py) trains a RoBERTa-base on either our "lexical" or "random" splits, and then computes final predictions for both test and train splits. <br /><br />
+-s: split type, either "lexical" or "random" (default=lexical)<br />
+-e: number of training epochs (default=3)<br />
+-o: output directory to save checkpoints and final predictions<br />
+```
+python3 src/source_classification.py -s lexical -e 3 -o "path_to_output_directory"
+```
 	
 ## 4.2 Reverse dictinary
 	

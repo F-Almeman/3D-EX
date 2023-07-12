@@ -11,14 +11,14 @@ paths = {
     "lexical_test" : "../datasets/final_dataset/lexical_test.csv",
     "lexical_train" : "../datasets/final_dataset/lexical_train.csv",
     "random_test" : "../datasets/final_dataset/random_test(1).csv",
-    "random_test" : "../datasets/final_dataset/random_train(1).csv"
+    "random_train" : "../datasets/final_dataset/random_train(1).csv"
 }
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('-s', '--split', help='Model type for training.', default='lexical')
+    parser.add_argument('-s', '--split', help='Split type, either lexical or random', default='lexical')
     parser.add_argument('-e','--epochs',help='Number of training epochs.', default=3, type=int)
     parser.add_argument('-o','--output_path',help='Path to save results', required=True)
 
@@ -76,7 +76,7 @@ if __name__ == "__main__":
             "num_train_epochs": args.epochs,
             "save_steps" : -1,
             "use_multiprocessing": False,
-            "use_multiprocessing_for_evaluation" : False
+            "use_multiprocessing_for_evaluation" : False,
             "output_dir" : args.output_path
         },
     )
@@ -89,5 +89,5 @@ if __name__ == "__main__":
     train_df['pred'] = train_preds
     test_df['pred'] = test_preds
 
-    train_df.to_csv(f"{split}_train_predictions.csv", index=False, header=True)
-    test_df.to_csv(f"{split}_test_prediction.csv", index=False, header=True)
+    train_df.to_csv(f"{args.output_path}/{split}_train_predictions.csv", index=False, header=True)
+    test_df.to_csv(f"{args.output_path}/{split}_test_prediction.csv", index=False, header=True)
