@@ -38,14 +38,14 @@ These datasets are processed as following:
 
 ## 1.2 Unify the datasets
 	
-[unify_datasets_v1.py](https://github.com/F-Almeman/3D-EX/blob/main/src/unify_datasets_v1.py) aims to unify number datasets in one dataset. It takes as input number of datasets (a folder containing these datasets as csv files), and returns a big csv file with all the datasets concatenated. It is used here to unifiy the complete datasets in one file and also the incomplete datasets that do not have examples in one file. The output files are available to be downloded [complete_unified_dataset.csv](https://drive.google.com/uc?export=download&id=1RLFfoMvzip3rjX919e4u6vVL4zpGf7aJ) , and [incomplete_unified_dataset.csv](https://drive.google.com/uc?export=download&id=1wAzlTw4R2bst-e4KphSe0P0Z4xwncFjR). Another version of complete_unified_dataset.csv is created without WordNet and Wiktionary to be used for WIC task [complete_unified_dataset_no_WN_Wiktionary.csv](https://drive.google.com/uc?export=download&id=1NXTNDyHwoAaQNfSidbj_NPIvhLDke9nw)
+[unify_datasets_v1.py](https://github.com/F-Almeman/3D-EX/blob/main/src/unify_datasets_v1.py) aims to unify number datasets in one dataset. It takes as input number of datasets (a folder containing these datasets as csv files), and returns a big csv file with all the datasets concatenated. It is used here to unifiy the complete datasets in one file and also the incomplete datasets that do not have examples in one file. The output files are available to be downloded [complete_unified_dataset.csv](https://drive.google.com/uc?export=download&id=1wT5HLFbxNor4mQdNAf8HkUw2GDxkhUMn),and [incomplete_unified_dataset.csv](https://drive.google.com/uc?export=download&id=17vErUtc88ncS2Zb_r4FMOlX11C1Lx_0Z).
 
 ```
 python3 src/unify_datasets_v1.py -i datasets/complete_datasets/ -o datasets/complete_unified_dataset.csv
 
 python3 src/unify_datasets_v1.py -i datasets/incomplete_datasets/ -o datasets/incomplete_unified_dataset.csv
 ```
-After that, [unify_datasets_v2.py](https://github.com/F-Almeman/3D-EX/blob/main/src/unify_datasets_v2.py) is used to unify complete_unified_dataset.csv and incomplete_unified_dataset.csv and generate one unified dataset that has the following columns: WORD, DEFINITION, EXAMPLES_LIST, DATASETS_LIST. The generated unified_dataset **3D-EX** is available here [unified_dataset.csv](https://drive.google.com/uc?export=download&id=1yIXTKMlEt5D-fRD3CcdS9sdDjce73To1). 
+After that, [unify_datasets_v2.py](https://github.com/F-Almeman/3D-EX/blob/main/src/unify_datasets_v2.py) is used to unify complete_unified_dataset.csv and incomplete_unified_dataset.csv and generate one unified dataset that has the following columns: WORD, DEFINITION, EXAMPLES_LIST, DATASETS_LIST. The generated unified_dataset **3D-EX** is available here [3D-EX.csv](https://drive.google.com/uc?export=download&id=1yIXTKMlEt5D-fRD3CcdS9sdDjce73To1). 
 	
 ```
 python3 src/unify_datasets_v2.py -c datasets/complete_unified_dataset.csv -i datasets/incomplete_unified_dataset.csv -o datasets/unified_dataset.csv
