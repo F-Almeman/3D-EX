@@ -33,7 +33,7 @@ These datasets are processed as following:
 9. MultiRD : removing noisy or uninformative definitions such as "see synonyms at" and "often used in the plural".
 10. Sci-definition: each term has 10 scientific abstracts, we extracted the sentences that include this target term from these abstracts to be (examples) for the word. We excluded keywords sentences and any sentence has more than 10% non alphanumeric characters.
 11. Wiktionary: some definitions include the time where words were coined such as (first attested in the late 16th century) and (from 16 c). These parts in the definitions were deleted. 
-12. Urban: after all these cleaning steps, we found that there were still some noisy definitions in Urban dictionary. So we built a binary classifier “RoBERTa” where positive examples are from (Wikipedia, CHA and Wordnet) and negative examples are those noisy Urban definitions. All the classification details are available here in this [Google Colab Notebook]().
+12. Urban: after all these cleaning steps, we found that there were still some noisy definitions in Urban dictionary. So we built a binary classifier “RoBERTa” where positive examples are from (Wikipedia, CHA and Wordnet) and negative examples are those noisy Urban definitions. All the classification details are available here in this [Google Colab Notebook](https://colab.research.google.com/drive/1SVBEgm3jFleCLM_sJXQK1VIU65sAB3VU?usp=sharing).
 
 
 ## 1.2 Unify the datasets
