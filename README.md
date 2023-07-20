@@ -45,10 +45,10 @@ python3 src/unify_datasets_v1.py -i datasets/complete_datasets/ -o datasets/comp
 
 python3 src/unify_datasets_v1.py -i datasets/incomplete_datasets/ -o datasets/incomplete_unified_dataset.csv
 ```
-After that, [unify_datasets_v2.py](https://github.com/F-Almeman/3D-EX/blob/main/src/unify_datasets_v2.py) is used to unify complete_unified_dataset.csv and incomplete_unified_dataset.csv and generate one unified dataset that has the following columns: WORD, DEFINITION, EXAMPLES_LIST, DATASETS_LIST. The generated unified_dataset **3D-EX** is available here [3D-EX.csv](https://drive.google.com/uc?export=download&id=1yIXTKMlEt5D-fRD3CcdS9sdDjce73To1). 
+After that, [unify_datasets_v2.py](https://github.com/F-Almeman/3D-EX/blob/main/src/unify_datasets_v2.py) is used to unify complete_unified_dataset.csv and incomplete_unified_dataset.csv and generate one unified dataset that has the following columns: WORD, DEFINITION, EXAMPLES_LIST, DATASETS_LIST. The generated unified_dataset **3D-EX** is available here [3D-EX.csv](https://drive.google.com/uc?export=download&id=1kSlRQtKzgCpe7o8ubKZsg9QggHQhCJ81). 
 	
 ```
-python3 src/unify_datasets_v2.py -c datasets/complete_unified_dataset.csv -i datasets/incomplete_unified_dataset.csv -o datasets/unified_dataset.csv
+python3 src/unify_datasets_v2.py -c datasets/complete_unified_dataset.csv -i datasets/incomplete_unified_dataset.csv -o datasets/3D-EX.csv
 ```
 
 ## 1.3 Dataset splitting
