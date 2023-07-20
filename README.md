@@ -16,7 +16,7 @@ In this section we introduce DM datasets that define English words and may provi
 | [MultiRD](https://github.com/thunlp/MultiRD) | <ul><li>- [x] </li> | <ul><li>- [ ] </li> | 
 | [Urban](https://github.com/machelreid/vcdm) | <ul><li>- [x] </li> | <ul><li>- [x] </li> | 
 | [Sci-definition](https://huggingface.co/datasets/talaugust/sci-definition) | <ul><li>- [x] </li> | <ul><li>- [x] </li> | 
-| [Webster's Unabridged]([https://github.com/adambom/dictionary](https://github.com/Vocaby/dictionaryminer)) | <ul><li>- [x] </li> | <ul><li>- [ ] </li> |
+| [Webster's Unabridged](https://github.com/adambom/dictionary](https://github.com/Vocaby/dictionaryminer) | <ul><li>- [x] </li> | <ul><li>- [ ] </li> |
 | [Wikipedia](https://github.com/machelreid/vcdm) | <ul><li>- [x] </li> | <ul><li>- [x] </li> | 
 | [Wiktionary <br /> (Preprocessed by FEWS)](https://nlp.cs.washington.edu/fews/) | <ul><li>- [x] </li>  | <ul><li>- [x] </li> |
 | WordNet <br /> (from the Natural Language Tool Kit (NLTK) in Python.) | <ul><li>- [x] </li> | <ul><li>- [x] </li> | 
