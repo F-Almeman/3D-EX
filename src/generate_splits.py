@@ -6,6 +6,11 @@ import csv
 import re
 import numpy as np
 
+# Words splits
+import warnings
+import random
+warnings.filterwarnings('ignore')
+
 if __name__ == '__main__':
   # Create the parser
   parser = argparse.ArgumentParser()
@@ -15,7 +20,17 @@ if __name__ == '__main__':
 
   args = parser.parse_args()
 
-  
+  # This block is added to be able to read this big file
+  maxInt = sys.maxsize
+  while True:
+    # decrease the maxInt value by factor 10 
+    # as long as the OverflowError occurs.
+    try:
+        csv.field_size_limit(maxInt)
+        break
+    except OverflowError:
+        maxInt = int(maxInt/10)
+        
   # Read the csv file
   unified_dataset = pd.read_csv(args.dataset_file, engine='python', na_values = [''], keep_default_na=False)
 
@@ -25,9 +40,9 @@ if __name__ == '__main__':
                        [int(.6*len(unified_dataset)), int(.8*len(unified_dataset))])
 
   
-  random_train.to_csv(os.path.join(args.output_path, "random_train"+".csv"), index = False, header=True)
-  random_valid.to_csv(os.path.join(args.output_path, "random_valid"+".csv"), index = False, header=True)
-  random_test.to_csv(os.path.join(args.output_path, "random_test"+".csv"), index = False, header=True)
+  random_train.to_csv(os.path.join(args.output_path, "random_train.csv"), index = False, header=True)
+  random_valid.to_csv(os.path.join(args.output_path, "random_valid.csv"), index = False, header=True)
+  random_test.to_csv(os.path.join(args.output_path, "random_test.csv"), index = False, header=True)
 
   # Lexical splits
   train_words = set()
@@ -66,6 +81,7 @@ if __name__ == '__main__':
       WordNet_test_set = WordNet_test_set.append(word_subset)
       test_words.add(w)
 
+  
   # Wiktionary
   Wiktionary = unified_dataset[unified_dataset.DATASET_NAME.str.contains("Wiktionary")]
   Wiktionary_words = Wiktionary['WORD'].unique().tolist()
@@ -98,6 +114,7 @@ if __name__ == '__main__':
       Wiktionary_test_set = Wiktionary_test_set.append(word_subset)
       test_words.add(w)
 
+  
   # Urban
   Urban = unified_dataset[unified_dataset.DATASET_NAME.str.contains("Urban")]
   Urban_words = Urban['WORD'].unique().tolist()
@@ -130,6 +147,7 @@ if __name__ == '__main__':
       Urban_test_set = Urban_test_set.append(word_subset)
       test_words.add(w)
 
+  
   # Wikipedia
   Wikipedia = unified_dataset[unified_dataset.DATASET_NAME.str.contains("Wikipedia")]
   Wikipedia_words = Wikipedia['WORD'].unique().tolist()
@@ -161,7 +179,8 @@ if __name__ == '__main__':
     elif (Wikipedia_train_set_complete and Wikipedia_valid_set_complete) or (w in test_words):
       Wikipedia_test_set = Wikipedia_test_set.append(word_subset)
       test_words.add(w)
-	
+  
+  
   # CHA
   CHA = unified_dataset[unified_dataset.DATASET_NAME.str.contains("CHA")]
   CHA_words = CHA['WORD'].unique().tolist()
@@ -194,6 +213,7 @@ if __name__ == '__main__':
       CHA_test_set = CHA_test_set.append(word_subset)
       test_words.add(w)
 	
+  
   # CODWOE
   CODWOE = unified_dataset[unified_dataset.DATASET_NAME.str.contains("CODWOE")]
   CODWOE_words = CODWOE['WORD'].unique().tolist()
@@ -225,7 +245,8 @@ if __name__ == '__main__':
     elif (CODWOE_train_set_complete and CODWOE_valid_set_complete) or (w in test_words):
       CODWOE_test_set = CODWOE_test_set.append(word_subset)
       test_words.add(w)
-	
+	  
+  
   # Sci
   Sci = unified_dataset[unified_dataset.DATASET_NAME.str.contains("Sci-definition")]
   Sci_words = Sci['WORD'].unique().tolist()
@@ -258,6 +279,7 @@ if __name__ == '__main__':
       Sci_test_set = Sci_test_set.append(word_subset)
       test_words.add(w)
 	
+  
   # Webster
   Webster = unified_dataset[unified_dataset.DATASET_NAME.str.contains("Webster's Unabridged")]
   Webster_words = Webster['WORD'].unique().tolist()
@@ -290,6 +312,7 @@ if __name__ == '__main__':
       Webster_test_set = Webster_test_set.append(word_subset)
       test_words.add(w)
 
+  
   # Hei++
   Hei = unified_dataset[unified_dataset.DATASET_NAME.str.contains("Hei\\++")]
   Hei_words = Hei['WORD'].unique().tolist()
@@ -322,6 +345,7 @@ if __name__ == '__main__':
       Hei_test_set = Hei_test_set.append(word_subset)
       test_words.add(w)
 
+  
   # MultiRD
   MultiRD = unified_dataset[unified_dataset.DATASET_NAME.str.contains("MultiRD")]
   MultiRD_words = MultiRD['WORD'].unique().tolist()
@@ -353,7 +377,8 @@ if __name__ == '__main__':
     elif (MultiRD_train_set_complete and MultiRD_valid_set_complete) or (w in test_words):
       MultiRD_test_set = MultiRD_test_set.append(word_subset)
       test_words.add(w)
-	
+  
+  
   # Concat 
 
   lexical_train = pd.concat([WordNet_train_set, Wiktionary_train_set, Urban_train_set, Wikipedia_train_set, 
@@ -368,6 +393,6 @@ if __name__ == '__main__':
                           Sci_test_set, Webster_test_set, Hei_test_set, MultiRD_test_set])
   lexical_valid = lexical_valid.drop_duplicates()
 
-  lexical_train.to_csv(os.path.join(args.output_path, "lexical_train.csv", header = True, index = False)
-  lexical_valid.to_csv(os.path.join(args.output_path, "lexical_valid.csv", header = True, index = False)
-  lexical_test.to_csv(os.path.join(args.output_path, "lexical_test.csv", header = True, index = False)
+  lexical_train.to_csv(os.path.join(args.output_path, "lexical_train.csv"), index = False, header=True)
+  lexical_valid.to_csv(os.path.join(args.output_path, "lexical_valid.csv"), index = False, header=True)
+  lexical_test.to_csv(os.path.join(args.output_path, "lexical_test.csv"), index = False, header=True)
