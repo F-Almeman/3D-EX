@@ -59,13 +59,13 @@ Two splits are generated for **3D-EX**: random split and lexical split, where al
 python3 src/generate_splits.py datasets/unified_dataset.csv -o datasets/splits
 ```
 
-[random_train.csv](https://drive.google.com/uc?export=download&id=13oFT9B9H0FWjader_7a1WvvpgA9bwnWD)
-[random_valid.csv](https://drive.google.com/uc?export=download&id=1A5pCEIcbE7D-cGhVmmuP2u4-breX7br1)
-[random_test.csv](https://drive.google.com/uc?export=download&id=1plsu3A2uO3zo1ogTF_jgse4xHNAxUsDD)
+[random_train.csv](https://drive.google.com/uc?export=download&id=13oFT9B9H0FWjader_7a1WvvpgA9bwnWD) <br />
+[random_valid.csv](https://drive.google.com/uc?export=download&id=1A5pCEIcbE7D-cGhVmmuP2u4-breX7br1) <br />
+[random_test.csv](https://drive.google.com/uc?export=download&id=1plsu3A2uO3zo1ogTF_jgse4xHNAxUsDD) <br />
 
-[lexical_train.csv](https://drive.google.com/uc?export=download&id=1161CAIuRWhbSk-oAlXdk4liFbpVgaXq3)
-[lexical_valid.csv](https://drive.google.com/uc?export=download&id=1dwbT02KHZqjiuIO4fLQZvSyqwcV2yV-5)
-[lexical_test.csv](https://drive.google.com/uc?export=download&id=16vN9AiZhKWPqkwe0rP4tcvKNSyjWEjR-)
+[lexical_train.csv](https://drive.google.com/uc?export=download&id=1161CAIuRWhbSk-oAlXdk4liFbpVgaXq3) <br />
+[lexical_valid.csv](https://drive.google.com/uc?export=download&id=1dwbT02KHZqjiuIO4fLQZvSyqwcV2yV-5) <br />
+[lexical_test.csv](https://drive.google.com/uc?export=download&id=16vN9AiZhKWPqkwe0rP4tcvKNSyjWEjR-) <br />
 
 # 4. Intrinisic evaluation
 	
