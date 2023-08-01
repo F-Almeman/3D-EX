@@ -44,7 +44,7 @@ python3 src/unify_datasets_v1.py -i datasets/complete_datasets/ -o datasets/comp
 
 python3 src/unify_datasets_v1.py -i datasets/incomplete_datasets/ -o datasets/incomplete_unified_dataset.csv
 ```
-After that, [unify_datasets_v2.py](https://github.com/F-Almeman/3D-EX/blob/main/src/unify_datasets_v2.py) is used to unify complete_unified_dataset.csv and incomplete_unified_dataset.csv and generate one unified dataset that has the following columns: WORD, DEFINITION, EXAMPLES_LIST, DATASETS_LIST. The generated unified_dataset **3D-EX** is available here [3D-EX.csv](https://drive.google.com/uc?export=download&id=1ZjuRUn6KZPaXMVYecZ5IYDIRiB5VuEsR) [3D-EX.json](https://drive.google.com/uc?export=download&id=1gnRFRKISVxLVGhwpOWg6ZfjYNdW6Nad-).
+After that, [unify_datasets_v2.py](https://github.com/F-Almeman/3D-EX/blob/main/src/unify_datasets_v2.py) is used to unify complete_unified_dataset.csv and incomplete_unified_dataset.csv and generate one unified dataset that has the following columns: WORD, DEFINITION, EXAMPLES_LIST, DATASETS_LIST. The generated unified_dataset **3D-EX** is available here [3D-EX.csv](https://drive.google.com/uc?export=download&id=1ZjuRUn6KZPaXMVYecZ5IYDIRiB5VuEsR) and [3D-EX.json](https://drive.google.com/uc?export=download&id=1gnRFRKISVxLVGhwpOWg6ZfjYNdW6Nad-).
 	
 ```
 python3 src/unify_datasets_v2.py -c datasets/complete_unified_dataset.csv -i datasets/incomplete_unified_dataset.csv -o datasets/3D-EX.csv
@@ -58,13 +58,13 @@ Two splits are generated for **3D-EX**: random split and lexical split, where al
 python3 src/generate_splits.py datasets/unified_dataset.csv -o datasets/splits
 ```
 
-[random_train.csv](https://drive.google.com/uc?export=download&id=13oFT9B9H0FWjader_7a1WvvpgA9bwnWD) <br />
-[random_valid.csv](https://drive.google.com/uc?export=download&id=1A5pCEIcbE7D-cGhVmmuP2u4-breX7br1) <br />
-[random_test.csv](https://drive.google.com/uc?export=download&id=1plsu3A2uO3zo1ogTF_jgse4xHNAxUsDD) <br />
+[random_train.csv](https://drive.google.com/uc?export=download&id=10dgLkNhrf8KgVfElUTKoJoexH__bceZ4) <br />
+[random_valid.csv](https://drive.google.com/uc?export=download&id=1lgb8Ecn_LBkwPuE5pAze0I8LoY4FtuOq) <br />
+[random_test.csv](https://drive.google.com/uc?export=download&id=1EK4R_NOX1bqo1g4x9vfliP0bPjh2q34s) <br />
 
-[lexical_train.csv](https://drive.google.com/uc?export=download&id=1161CAIuRWhbSk-oAlXdk4liFbpVgaXq3) <br />
-[lexical_valid.csv](https://drive.google.com/uc?export=download&id=1dwbT02KHZqjiuIO4fLQZvSyqwcV2yV-5) <br />
-[lexical_test.csv](https://drive.google.com/uc?export=download&id=16vN9AiZhKWPqkwe0rP4tcvKNSyjWEjR-) <br />
+[lexical_train.csv](https://drive.google.com/uc?export=download&id=1tATK85HmqPW-SxKqHXyNRwNxoulrs-vn) <br />
+[lexical_valid.csv](https://drive.google.com/uc?export=download&id=1x86gOZBfJLc95DiaRkyieGfGUtCG7yvp) <br />
+[lexical_test.csv](https://drive.google.com/uc?export=download&id=1toafKZjqb-vVuLAKpZNyyFSIeIhlPMtz) <br />
 
 # 4. Intrinisic evaluation
 	
