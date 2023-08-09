@@ -2,7 +2,7 @@
 
 This repository is created for the work **3D-EX: A Unified Dataset of Definitions and Dictionary Examples** that is submitted to RANLP 2023.
 
-**3D-EX** is available here [3D-EX.csv](https://drive.google.com/uc?export=download&id=1ZjuRUn6KZPaXMVYecZ5IYDIRiB5VuEsR) and [3D-EX.json](https://drive.google.com/uc?export=download&id=1gnRFRKISVxLVGhwpOWg6ZfjYNdW6Nad-).
+**3D-EX** datasset is available here  to download [3D-EX.csv](https://drive.google.com/uc?export=download&id=1ZjuRUn6KZPaXMVYecZ5IYDIRiB5VuEsR) and [3D-EX.json](https://drive.google.com/uc?export=download&id=1gnRFRKISVxLVGhwpOWg6ZfjYNdW6Nad-).
 
 # 1. Data preparation
 
