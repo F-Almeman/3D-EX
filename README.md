@@ -2,11 +2,13 @@
 
 This repository is created for the work **3D-EX: A Unified Dataset of Definitions and Dictionary Examples** that is submitted to RANLP 2023.
 
+**3D-EX** is available here [3D-EX.csv](https://drive.google.com/uc?export=download&id=1ZjuRUn6KZPaXMVYecZ5IYDIRiB5VuEsR) and [3D-EX.json](https://drive.google.com/uc?export=download&id=1gnRFRKISVxLVGhwpOWg6ZfjYNdW6Nad-).
+
 # 1. Data preparation
 
-## 1.1 DM datasets
+## 1.1 Datasets
 
-In this section we introduce DM datasets that define English words and may provide some examples to understand words in context and know how to use them. We have 11 datasets whic are: CHA (Oxford Dictionary), CODWOE, Hei++, MultiRD, Urban, Sci-definition, Webster's Unabridged, Wikipedia, Wiktionary, WordNet. These datasets are organized in 2 folders [incomplete_datasets](https://github.com/F-Almeman/3D-EX/tree/main/datasets/incomplete_datasets) if they provide examples and [complete_datasets](https://github.com/F-Almeman/3D-EX/tree/main/datasets/complete_datasets) if they do not. 
+In this section we introduce set of dictionaries/enclopedias that define English words and may provide some examples to understand words in context. We have 10 datasets whic are: CHA (Oxford Dictionary), CODWOE, Hei++, MultiRD, Urban, Sci-definition, Webster's Unabridged, Wikipedia, Wiktionary, WordNet. These datasets are organized in 2 folders [incomplete_datasets](https://github.com/F-Almeman/3D-EX/tree/main/datasets/incomplete_datasets) if they provide examples and [complete_datasets](https://github.com/F-Almeman/3D-EX/tree/main/datasets/complete_datasets) if they do not. 
 
 | DATASET  | DEFINITION | EXAMPLE |
 | ------------- | ------------- | ------------- |
