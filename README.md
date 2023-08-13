@@ -21,7 +21,7 @@ In this section we introduce set of dictionaries/enclopedias that define English
 | [Webster's Unabridged](https://github.com/Vocaby/dictionaryminer) | <ul><li>- [x] </li> | <ul><li>- [ ] </li> |
 | [Wikipedia](https://github.com/machelreid/vcdm) | <ul><li>- [x] </li> | <ul><li>- [x] </li> | 
 | [Wiktionary <br /> (Preprocessed by FEWS)](https://nlp.cs.washington.edu/fews/) | <ul><li>- [x] </li>  | <ul><li>- [x] </li> |
-| WordNet <br /> (We extracted all WN lemmas that have examples from the Natural Language Tool Kit (NLTK) in Python.) | <ul><li>- [x] </li> | <ul><li>- [x] </li> | 
+| WordNet <br /> (We extracted all WN lemmas that have examples from the Natural Language Tool Kit (NLTK) in Python and we ignored words that are less than 4 characters.) | <ul><li>- [x] </li> | <ul><li>- [x] </li> | 
 
 These datasets are processed as following:
 1. Converting txt and json files to csv.
