@@ -89,3 +89,22 @@ This task is a ranking problem in which, given a definition, the task is to retr
 ```
 python3 src/reverse_dictionary.py -m model -d random_test.csv -wi "no" -di "Represent this dictionary definition" 
 ```
+
+# Citation information
+```
+@inproceedings{almeman-etal-2023-3d,
+    title = "3{D}-{EX}: A Unified Dataset of Definitions and Dictionary Examples",
+    author = "Almeman, Fatemah  and
+      Sheikhi, Hadi  and
+      Espinosa Anke, Luis",
+    editor = "Mitkov, Ruslan  and
+      Angelova, Galia",
+    booktitle = "Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing",
+    month = sep,
+    year = "2023",
+    address = "Varna, Bulgaria",
+    publisher = "INCOMA Ltd., Shoumen, Bulgaria",
+    url = "https://aclanthology.org/2023.ranlp-1.8/",
+    pages = "69--79",
+}
+```
