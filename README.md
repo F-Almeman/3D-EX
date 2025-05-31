@@ -89,6 +89,10 @@ This task is a ranking problem in which, given a definition, the task is to retr
 ```
 python3 src/reverse_dictionary.py -m model -d random_test.csv -wi "no" -di "Represent this dictionary definition" 
 ```
+# Licensing Information
+
+This is not a single dataset, therefore each subset has its own license (the collection itself does not have additional restrictions).
+
 
 # Citation information
 ```
